@@ -3,24 +3,24 @@ import { Typewriter } from "react-simple-typewriter";
 import Tilt from "react-parallax-tilt";
 import profileImage from "../../assets/profile2.jpeg";
 const About = () => {
-  const handleDownload = (e) => {
-    e.preventDefault();
+const handleDownload = (e) => {
+  e.preventDefault();
 
-    // 1️⃣ Open preview in new tab
-    window.open(
-      "https://drive.google.com/file/d/1f-Mi_hzzKMqeNxHbA-ElwKkOj8sTiFOR/view",
-      "_blank",
-      "noopener,noreferrer"
-    );
+  // 1️⃣ Open preview in new tab
+  window.open(
+    "https://drive.google.com/file/d/1CQy2Dc0ouLsBeWgqOXrR7utyUjXMSrUv/view",
+    "_blank",
+    "noopener,noreferrer"
+  );
 
-    // 2️⃣ Trigger download
-    const link = document.createElement("a");
-    link.href =
-      "https://drive.google.com/uc?export=download&id=1f-Mi_hzzKMqeNxHbA-ElwKkOj8sTiFOR";
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
+  // 2️⃣ Trigger download
+  const link = document.createElement("a");
+  link.href =
+    "https://drive.google.com/uc?export=download&id=1CQy2Dc0ouLsBeWgqOXrR7utyUjXMSrUv";
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+};
 
   return (
     <section
