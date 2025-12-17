@@ -17,9 +17,11 @@ The application is structured into the following key sections:
 - **📫 Contact**: collaborative form for inquiries.
 
 ## 📸 Screenshots
-
+About Section
 ![Screenshot 1](./public/s1.png)
+Skills Section
 ![Screenshot 2](./public/s2.png)
+Projects Section
 ![Screenshot 3](./public/s3.png)
 
 ## 📬 Contact
