@@ -16,6 +16,11 @@ The application is structured into the following key sections:
 - **🐙 GitHub**: Contributions and coding activity.
 - **📫 Contact**: collaborative form for inquiries.
 
+## 📸 Screenshots
+
+![Screenshot 1](./public/s1.png)
+![Screenshot 2](./public/s2.png)
+![Screenshot 3](./public/s3.png)
 
 ## 📬 Contact
 
