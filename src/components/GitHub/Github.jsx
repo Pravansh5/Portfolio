@@ -23,7 +23,7 @@ const Github = () => {
     {/* GitHub Stats Card */}
     <div className="w-full md:w-1/2 border border-[#c7f837] rounded-2xl shadow-[0_0_25px_2px_rgba(199,248,55,0.25)]">
       <img
-        src={`https://github-readme-stats.vercel.app/api?username=Pravansh5&show_icons=true&theme=transparent&text_color=ffffff&icon_color=c7f837&title_color=c7f837&bg_color=151515`}
+        src={`https://pravansh-git-hub-stats.vercel.app/api?username=Pravansh5&show_icons=true&theme=transparent&text_color=ffffff&icon_color=c7f837&title_color=c7f837&bg_color=151515`}
         alt="GitHub Stats"
         className="rounded-lg w-full"
       />
@@ -32,7 +32,7 @@ const Github = () => {
     {/* Top Languages Card */}
     <div className="w-full md:w-1/2 border border-[#c7f837] rounded-2xl shadow-[0_0_25px_2px_rgba(199,248,55,0.25)]">
       <img
-        src={`https://github-readme-stats.vercel.app/api/top-langs/?username=Pravansh5&layout=compact&theme=transparent&text_color=ffffff&title_color=c7f837&bg_color=151515&langs_count=6`}
+        src={`https://pravansh-git-hub-stats.vercel.app/api/top-langs/?username=Pravansh5&layout=compact&theme=transparent&text_color=ffffff&title_color=c7f837&bg_color=151515&langs_count=6`}
         alt="Top Languages"
         className="rounded-lg w-full"
       />
